@@ -7,3 +7,4 @@
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
 - [RestTemplate에 관한 고찰](https://junghyungil.tistory.com/84)
 - [스프링 테스트 전략](https://junghyungil.tistory.com/85)
+- [MSA의 BFF 패턴, 외부 구성 저장소 패턴, 인증 인가 패턴이란?](https://junghyungil.tistory.com/194)
