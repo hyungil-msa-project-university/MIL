@@ -8,3 +8,4 @@
 - [RestTemplate에 관한 고찰](https://junghyungil.tistory.com/84)
 - [스프링 테스트 전략](https://junghyungil.tistory.com/85)
 - [MSA의 BFF 패턴, 외부 구성 저장소 패턴, 인증 인가 패턴이란?](https://junghyungil.tistory.com/194)
+- [쿠버네티스(k8s) 서비스 메시 패턴의 구현체인 Istio란?](https://junghyungil.tistory.com/197)
